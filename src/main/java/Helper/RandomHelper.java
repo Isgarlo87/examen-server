@@ -10,10 +10,6 @@ import java.util.GregorianCalendar;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
-/**
- *
- * @author Julian
- */
 public class RandomHelper {
 
     String strSQL = null;

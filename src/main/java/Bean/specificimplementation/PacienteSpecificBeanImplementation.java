@@ -8,10 +8,6 @@ package Bean.specificimplementation;
 import Bean.genericimplementation.TableGenericBeanImplementation;
 import java.util.Date;
 
-/**
- *
- * @author Julian
- */
 
 public class PacienteSpecificBeanImplementation extends TableGenericBeanImplementation {
 

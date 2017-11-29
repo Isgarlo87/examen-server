@@ -5,10 +5,6 @@
  */
 package Service.publicinterface;
 
-/**
- *
- * @author Kysuke
- */
 import Bean.ReplyBean;
 
 public interface TableServiceInterface {

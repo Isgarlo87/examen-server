@@ -11,10 +11,6 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- *
- * @author Kysuke
- */
 public abstract class ViewGenericBeanImplementation implements GenericBeanInterface {
 
     public ViewGenericBeanImplementation() {

@@ -26,10 +26,6 @@ import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 import javax.servlet.http.HttpServletRequest;
 
-/**
- *
- * @author Julian
- */
 public class PacienteSpecificServiceImplementation extends GenericTableService {
 
     public PacienteSpecificServiceImplementation(HttpServletRequest request) {
